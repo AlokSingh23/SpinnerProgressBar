@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SpinnerProgressBar</string>
+    <string-array name="spinner1">
+        <item>select item</item>
+        <item>Ec</item>
+        <item>CS</item>
+        <item>CE</item>
+        <item>IT</item>
+
+    </string-array>
+</resources>
